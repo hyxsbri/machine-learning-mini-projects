@@ -5,8 +5,8 @@
 ## 본격적으로 공부한 동기가 됐습니다.
 ## 주피터 노트북/ 서적에서 제공하는 데이터를 활용해 해당 작업을 수행했습니다.
 ##
-## #EDA #ML #feature_engineering 
-## 링크 - https://hyxsbri.github.io/
-### open data imported by Kaggle
+## #EDA #ML #algorithm #feature_engineering #python
+### 도서 이름: 데싸노트의 실전에서 통하는 머신러닝(2022)
+### 저자: 권시현
 ### https://www.kaggle.com/
 ##
